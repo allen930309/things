@@ -39,7 +39,7 @@ const makeClass = (i) => (
 						:href="activity.url"
 						target="_blank"
 						class="focus:outline-none rounded py-3 px-4 text-black border border-black flex justify-center items-center text-base hover:bg-gray-200 bg-transparent">
-						檢視心得
+						回google搂~
 					</a>
 				</div>
 			</div>
