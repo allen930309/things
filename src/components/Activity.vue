@@ -3,13 +3,13 @@ import {ArrowRightIcon} from '@heroicons/vue/outline';
 
 const activities = [
 	{
-		title: 'Web開發挑戰營',
-		description: '讓你探索自己的網頁技術，並學習如何撰寫網頁。',
-		url: 'https://camp.aplusplus.education'
+		title: 'Google',
+		description: '覺得逛完的話就帶你回Google做新的開始吧~',
+		url: 'https://google.com'
 	},
 	{
-		title: '模擬聯合國',
-		description: '模聯合國是一個模擬聯合國的活動，讓你學習如何模擬聯合國。'
+		title: '當個遊戲玩家',
+		description: '遊戲玩家錯了嗎，學學程式打打遊戲豈不美哉?'
 	}
 ]
 const makeClass = (i) => (

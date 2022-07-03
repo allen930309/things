@@ -11,16 +11,16 @@ const skills = [
 		description: '寫作文章、網誌',
 	},
 	{
-		title: '吹泡泡',
-		description: '吹出一顆又一顆泡泡',
+		title: '遊戲',
+		description: 'No Game No Life',
 	},
 	{
 		title: '煮飯',
 		description: '煮出美味佳餚',
 	},
 	{
-		title: '種植物',
-		description: '自己種東西來吃',
+		title: '聊天',
+		description: '沒什麼事就聊個天散散心',
 	},
 ]
 </script>
