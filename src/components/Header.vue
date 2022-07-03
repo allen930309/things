@@ -4,12 +4,12 @@ import {ArrowRightIcon, ChevronDoubleDownIcon} from '@heroicons/vue/solid'
 <template>
 	<section class="bg-blue-200 flex flex-col justify-center items-center md:px-20 min-h-screen">
 		<div class="flex flex-col w-full py-12 px-4 lg:px-0 justify-center items-end">
-			<p class="text-2xl text-gray-800 font-medium">哈囉！我是<span class="text-blue-400">王小明</span></p>
+			<p class="text-2xl text-gray-800 font-medium">Hello fellas, I'm <span class="text-blue-400">ItzHeilun</span></p>
 			<h1 class="text-5xl text-right text-gray-800 mt-1 font-extrabold">
-				一個喜歡寫程式的高中生
+				基本上自己一個人的不明生物
 			</h1>
 			<p class="text-lg text-gray-600 font-light pt-8">
-				[自我介紹]
+				[About me]
 			</p>
 			<a
 				href="#contact"
